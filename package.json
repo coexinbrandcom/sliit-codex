@@ -1,0 +1,6 @@
+{
+  "name": "testproject-react-auth",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Browser-run React auth demo using ESM CDN modules"
+}
